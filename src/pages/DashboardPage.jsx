@@ -12,10 +12,10 @@ export default function DashboardPage() {
   const weakTopics = ["Dynamic Programming", "Graph Algorithms", "Pointers & Memory"];
   const recommended = ["Binary Trees Deep Dive", "Recursion Mastery", "Hash Tables Explained"];
   const progress = [
-    { subject: "Data Structures", pct: 72, color: "#3b82f6" },
-    { subject: "C Programming", pct: 90, color: "#10b981" },
-    { subject: "Algorithms", pct: 45, color: "#8b5cf6" },
-    { subject: "Python", pct: 60, color: "#06b6d4" },
+    { subject: "C Programming", pct: 90, color: "#3b82f6" },
+    { subject: "C++", pct: 72, color: "#6366f1" },
+    { subject: "Java", pct: 45, color: "#f59e0b" },
+    { subject: "Python", pct: 60, color: "#10b981" },
   ];
 
   return (

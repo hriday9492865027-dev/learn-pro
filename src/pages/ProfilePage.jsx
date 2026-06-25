@@ -5,10 +5,9 @@ import Badge from "../components/UI/Badge";
 export default function ProfilePage() {
   const skills = [
     { name: "C Programming", level: 90 },
-    { name: "Data Structures", level: 72 },
-    { name: "Algorithms", level: 45 },
+    { name: "C++", level: 72 },
+    { name: "Java", level: 45 },
     { name: "Python", level: 60 },
-    { name: "JavaScript", level: 55 },
   ];
 
   return (

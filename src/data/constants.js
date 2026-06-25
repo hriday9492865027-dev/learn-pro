@@ -14,15 +14,6 @@ export const SUBJECTS = [
   { id: "cpp", name: "C++", icon: "🔷", color: "#6366f1", lessons: 32, level: "Intermediate", desc: "Object-oriented programming, templates, STL, and modern C++ features." },
   { id: "python", name: "Python", icon: "🐍", color: "#10b981", lessons: 28, level: "Beginner", desc: "Clean syntax, powerful libraries, and rapid development for all domains." },
   { id: "java", name: "Java", icon: "☕", color: "#f59e0b", lessons: 30, level: "Intermediate", desc: "Enterprise-grade OOP with JVM, collections, and multithreading." },
-  { id: "javascript", name: "JavaScript", icon: "🟨", color: "#eab308", lessons: 35, level: "Beginner", desc: "The language of the web — DOM, async, closures, and modern ES6+." },
-  { id: "html", name: "HTML", icon: "🌐", color: "#ef4444", lessons: 15, level: "Beginner", desc: "Semantic markup, accessibility, and the building blocks of every webpage." },
-  { id: "css", name: "CSS", icon: "🎨", color: "#ec4899", lessons: 20, level: "Beginner", desc: "Flexbox, Grid, animations, and responsive design that delights." },
-  { id: "sql", name: "SQL", icon: "🗃️", color: "#8b5cf6", lessons: 22, level: "Intermediate", desc: "Queries, joins, indexes, and database design from scratch to advanced." },
-  { id: "ds", name: "Data Structures", icon: "🌳", color: "#06b6d4", lessons: 40, level: "Intermediate", desc: "Arrays, linked lists, trees, graphs — with visual animations." },
-  { id: "algo", name: "Algorithms", icon: "⚡", color: "#f97316", lessons: 38, level: "Advanced", desc: "Sorting, searching, dynamic programming, and complexity analysis." },
-  { id: "os", name: "Operating Systems", icon: "💾", color: "#64748b", lessons: 26, level: "Advanced", desc: "Processes, scheduling, memory management, and file systems." },
-  { id: "dbms", name: "DBMS", icon: "🏛️", color: "#7c3aed", lessons: 24, level: "Intermediate", desc: "Normalization, transactions, ACID, and relational theory." },
-  { id: "cn", name: "Computer Networks", icon: "🌍", color: "#0ea5e9", lessons: 28, level: "Advanced", desc: "OSI model, TCP/IP, routing, and network protocols explained visually." },
 ];
 
 export const QUIZ_QUESTIONS = [
